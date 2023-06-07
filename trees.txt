@@ -3,3 +3,4 @@
 3 birch
 4 fir-tree
 5 ginkgo
+6 ash-tree
